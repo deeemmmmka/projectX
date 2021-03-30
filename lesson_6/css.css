@@ -1,0 +1,20 @@
+button{
+    height: 65px;
+    width: 200px;
+    background-color: green;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    cursor: pointer;
+    color: #fff;
+    transition: .3s ease all;
+}
+button:hover{
+    /* box-shadow: inset 0px 0px 0px 2px #fff;
+    border-radius: 0; */
+    transform: scale(0.98);
+}
+a{
+    display: flex;
+    margin-top: 40px;
+}
